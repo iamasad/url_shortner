@@ -6,8 +6,8 @@ A simple web application for url shortning using python-django, html,css
  git clone git https://github.com/iamasad/url_shortner.git
  then go to cloned directory using cd //
 
-# run these command -> 
-python manage.py magemigrations
-python manage.py migrate
-python manage.py createsuperuser(choose username, password)
-python manage.py runserver
+## run these command -> 
+1. python manage.py magemigrations
+2. python manage.py migrate
+3. python manage.py createsuperuser(choose username, password)
+4. python manage.py runserver
