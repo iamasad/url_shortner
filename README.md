@@ -12,3 +12,5 @@ A simple web application for url shortning using python-django, html,css
 2. python manage.py migrate
 3. python manage.py createsuperuser(choose username, password)
 4. python manage.py runserver
+
+#NEW CHANGES
